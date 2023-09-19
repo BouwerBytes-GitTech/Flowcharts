@@ -1,0 +1,226 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;span style=&amp;quot;font-size: 45px;&amp;quot;&amp;gt;Processing Group&amp;lt;/span&amp;gt;\" style=\"swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;strokeWidth=5;fontSize=16;startSize=75;fillStyle=solid;fillColor=#ffffff;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"993\" height=\"651\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"75\" width=\"108\" height=\"108\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"543\" width=\"108\" height=\"108\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"885\" y=\"75\" width=\"108\" height=\"108\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 993,
+    "h": 651,
+    "aspect": "fixed",
+    "title": "Processing Group"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Start Here\" style=\"shape=singleArrow;whiteSpace=wrap;html=1;fontSize=60;fontStyle=1;arrowWidth=0.4179566563467492;arrowSize=0.3152709359605914;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffffff;fillStyle=solid;fontColor=#000000;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"493\" height=\"323\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 493,
+    "h": 323,
+    "aspect": "fixed",
+    "title": "Start Point"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"LCR\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#858585;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#F7F7F7;fillColor=#707070;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"4.547473508864641e-13\" width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Large Chemical Reactor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Electrolyzer\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fontSize=16;fillColor=#f8cecc;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-4.547473508864641e-13\" width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Electrolyzer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Vacuum Freezer&amp;lt;br&amp;gt;\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#10739e;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#000000;fillColor=#66a5db;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Vacuum Freezer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Oil Cracker\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#10739e;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#000000;fillColor=#b1ddf0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-4.547473508864641e-13\" width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Oil Cracking Unit"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Distillation Tower\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#000000;fillColor=#dae8fc;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Distillation Tower"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Sifter\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#B09500;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#000000;fillColor=#e3c800;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Sifter"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Chemical Bath\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#10739e;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#F2F2F2;fillColor=#335966;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Chemical Bath"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Centrifuge\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#d79b00;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#000000;fillColor=#ffe6cc;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"393\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"378\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 393,
+    "aspect": "fixed",
+    "title": "Centrifuge"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Electric Blast Furnace\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#82b366;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#000000;fillColor=#d5e8d4;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"453\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"438\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 453,
+    "aspect": "fixed",
+    "title": "EBF"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#030303&amp;quot;&amp;gt;Neutron Activator&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#c4d2de;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=1;fontSize=16;fontColor=#F7F7F7;fillColor=#c4d2de;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552.0000000000009\" height=\"453\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"9.094947017729282e-13\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"9.094947017729282e-13\" y=\"438\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537.0000000000009\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552.0000000000009,
+    "h": 453,
+    "aspect": "fixed",
+    "title": "Neutron Activator"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Thermal Centrifuge\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fontSize=16;fillColor=#CF3625;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#F7F7F7;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"453\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"438\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 453,
+    "aspect": "fixed",
+    "title": "Thermal Centrifuge"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Mixer\" style=\"swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fillColor=#f5f5f5;strokeWidth=1;fontSize=16;strokeColor=#DBDBDB;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"552\" height=\"459\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"444\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"537\" y=\"24\" width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 552,
+    "h": 458.99999999999994,
+    "aspect": "fixed",
+    "title": "Mixer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Input\" style=\"whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=4;fillColor=#dae8fc;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-4.547473508864641e-13\" width=\"204\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 36,
+    "aspect": "fixed",
+    "title": "Input Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Recycled Input to Buffer\" style=\"whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"4.547473508864641e-13\" width=\"204\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 36,
+    "aspect": "fixed",
+    "title": "Input to Buffer Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Chained Output\" style=\"whiteSpace=wrap;html=1;strokeColor=#82B366;strokeWidth=4;fillColor=#D5E8D4;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 36,
+    "aspect": "fixed",
+    "title": "Chained Output Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Recycled Output\" style=\"whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=4;fillColor=#e1d5e7;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 36,
+    "aspect": "fixed",
+    "title": "Recycled Output Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Output\" style=\"whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=4;fillColor=#ffe6cc;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 36,
+    "aspect": "fixed",
+    "title": "Output Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#99FFFF;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=16;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"54\" height=\"54\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 54,
+    "h": 54,
+    "aspect": "fixed",
+    "title": "Input Slot Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FC0000;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=16;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"54\" height=\"54\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 54,
+    "h": 54,
+    "aspect": "fixed",
+    "title": "Buffered Input Slot Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#71f425;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=16;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"54\" height=\"54\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 54,
+    "h": 54,
+    "aspect": "fixed",
+    "title": "Chained Output Slot Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#E544EB;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=16;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"54\" height=\"54\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 54,
+    "h": 54,
+    "aspect": "fixed",
+    "title": "Recycled Output Slot Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FF8000;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=16;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"54\" height=\"54\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 54,
+    "h": 54,
+    "aspect": "fixed",
+    "title": "Output Slot Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;shadow=0;strokeColor=#3f79ca;strokeWidth=2;fillColor=#d6e7ff;shape=flexArrow;labelBorderColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=#FFFFFF;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"141\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140.99999999999966,
+    "h": 1.25,
+    "aspect": "fixed",
+    "title": "Input Arrow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;shadow=0;strokeColor=#b85450;strokeWidth=2;fillColor=#ff9e99;shape=flexArrow;labelBorderColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=#FFFFFF;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"141\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140.9999999999998,
+    "h": 1.0526315789473684,
+    "aspect": "fixed",
+    "title": "Buffered Input Arrow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;shadow=0;strokeColor=#74e830;strokeWidth=2;fillColor=#c8f7c5;shape=flexArrow;labelBorderColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=#FFFFFF;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"141\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140.99999999999966,
+    "h": 1.25,
+    "aspect": "fixed",
+    "title": "Chained Output Arrow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;shadow=0;strokeColor=#9673a6;strokeWidth=2;fillColor=#e9bdff;shape=flexArrow;labelBorderColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=#FFFFFF;fillStyle=solid;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"141\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140.9999999999998,
+    "h": 1.0526315789473684,
+    "aspect": "fixed",
+    "title": "Recycled Output Arrow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;shadow=0;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffc98f;shape=flexArrow;labelBorderColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=#FFFFFF;fillStyle=solid;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"4.547473508864641e-13\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"141\" y=\"4.547473508864641e-13\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140.9999999999998,
+    "h": 1.0526315789473684,
+    "aspect": "fixed",
+    "title": "Output Arrow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"108\" height=\"108\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 108,
+    "h": 108,
+    "aspect": "fixed",
+    "title": "Spacer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"438\" height=\"108\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 438,
+    "h": 108,
+    "aspect": "fixed",
+    "title": "Wide Spacer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#FFFF00;strokeWidth=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"15\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 15,
+    "h": 15,
+    "aspect": "fixed",
+    "title": "Small Spacer"
+  }
+]</mxlibrary>
